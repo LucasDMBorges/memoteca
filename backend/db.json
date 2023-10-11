@@ -17,6 +17,12 @@
       "conteudo": "Criação do json-server, use os comandos 1- npm init -y 2- npm i json-server e crie o arquivo db.json",
       "autoria": "Lucas Dean",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando o Post, testando a edição no patch",
+      "autoria": "dev.lucasdean",
+      "modelo": "modelo1",
+      "id": 4
     }
   ]
 }
