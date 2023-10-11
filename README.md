@@ -1,4 +1,5 @@
 # Memoteca
+Este é o projeto do curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD que eu realizei em Outubro de 2023, repositório criado apenas para entrega das atividades propostas  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
