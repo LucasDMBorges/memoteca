@@ -1,0 +1,2 @@
+export const TextoGrande =
+  "Teste de diretiva ngClass com validação para pensamento com mais de 256 caracteres, mudando a classe de largura do pensamento para manter o layout desejado, como esse texto possui mais de 256 caracteres meu card assume uma largura maior permitindo que o texto não fique com tantas quebras de linha, para manter a formatação do meu código criei um arquivo const.ts que exporta esse texto.";
