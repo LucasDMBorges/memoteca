@@ -23,6 +23,12 @@
       "autoria": "dev.lucasdean",
       "modelo": "modelo1",
       "id": 4
+    },
+    {
+      "conteudo": "Aprendendo ANGULAR",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "id": 5
     }
   ]
 }
