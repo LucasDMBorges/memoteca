@@ -29,6 +29,24 @@
       "autoria": "Angular",
       "modelo": "modelo1",
       "id": 5
+    },
+    {
+      "conteudo": "Curso Angular 14: evoluindo a aplicação ",
+      "autoria": "Alura",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Criando pensamentos para ser necessário paginação",
+      "autoria": "Dev",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Pensamento teste",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "id": 8
     }
   ]
 }
