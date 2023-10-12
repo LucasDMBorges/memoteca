@@ -4,49 +4,64 @@
       "id": 1,
       "conteudo": "Curso de Angular 14",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Teste de diretiva ngClass com validação para pensamento com mais de 256 caracteres, mudando a classe de largura do pensamento para manter o layout desejado, como esse texto possui mais de 256 caracteres meu card assume uma largura maior permitindo que o texto não fique com tantas quebras de linha.",
       "autoria": "Lucas Dean",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Criação do json-server, use os comandos 1- npm init -y 2- npm i json-server e crie o arquivo db.json",
       "autoria": "Lucas Dean",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Testando o Post, testando a edição no patch",
       "autoria": "dev.lucasdean",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Aprendendo ANGULAR",
       "autoria": "Angular",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Curso Angular 14: evoluindo a aplicação ",
       "autoria": "Alura",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Criando pensamentos para ser necessário paginação",
       "autoria": "Dev",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Pensamento teste",
       "autoria": "Angular",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
+    },
+    {
+      "conteudo": "Escolhendo um pensamento favorito.",
+      "autoria": "Lucas Dean",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 9
     }
   ]
 }
