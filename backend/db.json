@@ -12,14 +12,14 @@
       "conteudo": "Teste de diretiva ngClass com validação para pensamento com mais de 256 caracteres, mudando a classe de largura do pensamento para manter o layout desejado, como esse texto possui mais de 256 caracteres meu card assume uma largura maior permitindo que o texto não fique com tantas quebras de linha.",
       "autoria": "Lucas Dean",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Criação do json-server, use os comandos 1- npm init -y 2- npm i json-server e crie o arquivo db.json",
       "autoria": "Lucas Dean",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Testando o Post, testando a edição no patch",
